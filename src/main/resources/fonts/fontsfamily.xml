@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+  <fontFamily name="TH SarabunPSK">
+       <normal>
+          <ttf><![CDATA[fonts/THSarabun.ttf]]></ttf>
+          <pdf><![CDATA[fonts/THSarabun.ttf]]></pdf>
+       </normal>
+       <bold><![CDATA[fonts/THSarabun Bold.ttf]]></bold>
+       <italic><![CDATA[fonts/THSarabun Italic.ttf]]></italic>
+       <boldItalic><![CDATA[fonts/THSarabun Bold Italic.ttf]]></boldItalic>
+       <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+       <exportFonts/>
+   </fontFamily>
+</fontFamilies>
